@@ -21,5 +21,7 @@ const getGoalValue = (goal) =>{
 
 
 module.exports = {
-    createGoFundMeLink
+    createGoFundMeLink,
+    getImgURL,
+    getGoalValue
 }
